@@ -1,0 +1,2 @@
+Veuillez executer le fichier INTERFACE.PHP
+http://localhost/Projet_Amine/interface.php
